@@ -88,9 +88,9 @@ and extracts it accordingly to the rok4 config parameters.
 
 As it is mentioned on the [rok4](http://www.rok4.org) website :
 
-    > Il s’agit d’un jeu de données issu du SCAN 1000® de l’IGN en projection 
-    > Lambert 93 et compressé en JPEG. Ces données ne peuvent être utilisées 
-    > pour un usage commercial.
+> Il s’agit d’un jeu de données issu du SCAN 1000® de l’IGN en projection 
+> Lambert 93 et compressé en JPEG. Ces données ne peuvent être utilisées 
+> pour un usage commercial.
 
 For the non-french readers :P, that means the dataset is derived from a 
 copyrighted IGN product, and it **can not** be used for commercial purposes.
