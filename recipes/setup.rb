@@ -31,3 +31,9 @@ template "#{node['rok4']['config']['server_file']}" do
     'server_port'           => node['rok4']['config']['server_binding']
   })
 end
+
+cookbook_file "#{node['rok4']['config']['services_file']}" do
+  source "services.conf"
+  mode "644"
+  action :create_if_missing
+end
